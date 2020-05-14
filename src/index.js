@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(routes);
 
 /**
- * rota / recurso   teste
+ * rota / recurso  
  */
 
  /**
